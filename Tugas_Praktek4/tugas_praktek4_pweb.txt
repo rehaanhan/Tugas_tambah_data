@@ -1,0 +1,26 @@
+Status tugas CRUD pweb
+
+(main)
+-php sudah terkoneksi ke mysql (done)
+-fungsi add data dengan notif (done)
+-fungsi edit data dengan notif (done)
+-fungsi delete dengan notif (done)
+-fungsi searching (done)
+-fungsi ORDER BY berdasarkan nidn (done)
+-form prodi menjadi dropdown (done)
+
+-fungsi upload (done)
+	notif ada/tidaknya gambar (done)
+	notif upload gambar/bukan (done)
+	generate nama unik file foto (done)
+
+-NIDN menjadi nilai unik, tidak ada yg sama (pending)
+
+
+(ui/ux)
+-desain upper 
+-desain body
+-desain footer
+-warna, font, dan size
+-animasi
+-efek transisi
